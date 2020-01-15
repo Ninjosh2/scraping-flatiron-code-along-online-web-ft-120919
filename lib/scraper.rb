@@ -35,4 +35,4 @@ end
 
 
 
-Course.all 
+binding.pry 
